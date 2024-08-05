@@ -1,0 +1,5 @@
+langgraph==0.1.17
+langchain_anthropic==0.32.0
+langsmith==0.1.96
+scikit-learn==1.5.1
+langchain_openai==0.1.20
