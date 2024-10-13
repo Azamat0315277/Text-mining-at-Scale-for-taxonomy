@@ -1,4 +1,5 @@
-.env
-.db
-.csv
-.zip
+*.env
+*.db
+*.csv
+*.zip
+*.json
